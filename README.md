@@ -1,7 +1,5 @@
 # TheSparksFoundationTasks
-@settings {
-  font-size: 100;
-}
+
 # Task1__Prediction using Supervised ML-Linear Regression
    Predict the percentage of marks of a student based on the number of study hours.
    
